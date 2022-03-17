@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeCXXInformation.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeGenericSystem.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeRCInformation.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/Compiler/MSVC-CXX.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/Platform/Windows.cmake
+C:/studia/cmake-3.23.0-rc3-windows-x86_64/cmake-3.23.0-rc3-windows-x86_64/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake
+C:/studia/kwtm/kwtm_Cmake/build/CMakeFiles/3.23.0-rc3/CMakeCCompiler.cmake
+C:/studia/kwtm/kwtm_Cmake/build/CMakeFiles/3.23.0-rc3/CMakeCXXCompiler.cmake
+C:/studia/kwtm/kwtm_Cmake/build/CMakeFiles/3.23.0-rc3/CMakeRCCompiler.cmake
+C:/studia/kwtm/kwtm_Cmake/build/CMakeFiles/3.23.0-rc3/CMakeSystem.cmake
+C:/studia/kwtm/kwtm_Cmake/src/CMakeLists.txt
